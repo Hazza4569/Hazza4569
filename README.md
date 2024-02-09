@@ -1,7 +1,7 @@
 # Harry Cooke
 <p align="center">
 <!-- typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=900&size=24&duration=4000&pause=500&color=800020&center=true&vCenter=true&random=false&width=435&height=30&lines=Experienced+C%2B%2B%2FPython+developer;10%2B+years+of+programming+experience;PhD+Particle+Physics" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=900&size=24&duration=4000&pause=500&color=800020&center=true&vCenter=true&random=false&width=435&height=30&lines=Experienced+C%2B%2B%2FPython+developer;10%2B+years+of+programming+experience;PhD+in+Particle+Physics" alt="Typing SVG"/>
 <br>
 <!-- socials -->
 <a href="https://www.linkedin.com/in/harry-cooke-5507512a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="resources/linkedin.png"/></a>
