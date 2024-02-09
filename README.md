@@ -5,10 +5,8 @@
 <br>
 <!-- socials -->
 <a href="https://www.linkedin.com/in/harry-cooke-5507512a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="resources/linkedin.png"/></a>
-&#8287;&#8287;
 <a href="https://www.instagram.com/hazza4569/"><img width="32px" alt="Instagram" title="Instagram" src="resources/instagram.png"/></a>
-&#8287;&#8287;
-<a href="https://hazza4569.github.io/web-portfolio/"><img width="32px" alt="Website" title="Website" src="resources/web.png"/></a>
+<a href="https://hazza4569.github.io/web-portfolio/"><img width="22px" style="padding: 0 0 5px 7px" alt="Website" title="Website" src="resources/web.png"/></a>
 </p>
 
 ## What I do
