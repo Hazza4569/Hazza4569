@@ -5,11 +5,10 @@
 <br>
 <!-- socials -->
 <a href="https://www.linkedin.com/in/harry-cooke-5507512a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="resources/linkedin.png"/></a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
+&#8287;&#8287;
 <a href="https://www.instagram.com/hazza4569/"><img width="32px" alt="Instagram" title="Instagram" src="resources/instagram.png"/></a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
+&#8287;&#8287;
 <a href="https://hazza4569.github.io/web-portfolio/"><img width="32px" alt="Website" title="Website" src="resources/web.png"/></a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ## What I do
@@ -20,6 +19,10 @@
 
 ## Technical skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,c,bash,js,html,css,cmake,git,linux,latex,vim)](https://skillicons.dev)
+
+## Find out more
+
+See my [CV](https://github.com/Hazza4569/cv/blob/master/cv.pdf) for more information about my skills and experience, or contact me by [email](mailto:hcooke006@aol.com)!
 
 ---
 
