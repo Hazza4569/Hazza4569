@@ -12,18 +12,14 @@
 &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
----
-
 ## What I do
 
  - Skilled C++ and Python developer
- - PhD in Particle Physics -- analysing data from The ATLAS Experiment at CERN
+ - PhD in Particle Physics &mdash; analysing data from The ATLAS Experiment at CERN
  - Looking for a career to apply my technical skills!
 
----
-
 ## Technical skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,bash,js,html,css,cmake,git,linux,latex,vim,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,c,bash,js,html,css,cmake,git,linux,latex,vim)](https://skillicons.dev)
 
 ---
 
